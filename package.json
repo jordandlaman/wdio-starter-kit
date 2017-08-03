@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/klamping/wdio-starter-kit.git"
+    "url": "git+https://github.com/jordandlaman/wdio-starter-kit.git"
   },
   "keywords": [
     "WebdriverIO"
@@ -17,9 +17,9 @@
   "author": "Kevin Lamping",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/klamping/wdio-starter-kit/issues"
+    "url": "https://github.com/jordandlaman/wdio-starter-kit/issues"
   },
-  "homepage": "https://github.com/klamping/wdio-starter-kit#readme",
+  "homepage": "https://github.com/jordandlaman/wdio-starter-kit#readme",
   "devDependencies": {
     "chai": "^4.0.2",
     "chai-webdriverio": "^0.4.1",
